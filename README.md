@@ -239,9 +239,13 @@ https://c2n.me/4eumSK7
 
 https://c2n.me/4euobE2
 
+![nexus1](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/nexus1.png)
+
 4. В ответе присылаем файл maven-metadata.xml для этого артефекта
 
 https://c2n.me/4euogWd
+
+![nexus2](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/nexus2.png)
 
 файл в репозитории
 
