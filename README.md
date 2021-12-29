@@ -213,6 +213,10 @@ https://c2n.me/4eumDL0
 
 https://c2n.me/4eumSK7
 
+![sonar1](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/sonar1.png)
+![sonar2](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/sonar2.png)
+![sonar3](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/sonar3.png)
+![sonar4](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/sonar4.png)
 
 Знакомство с Nexus
 
